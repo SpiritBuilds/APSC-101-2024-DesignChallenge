@@ -53,7 +53,6 @@ void setup(){
   mixingMotor.setSpeed(200);
   
   startTime = millis();
-
 }
 
 void loop(){
